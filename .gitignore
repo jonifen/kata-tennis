@@ -1,7 +1,11 @@
-node_modules/
+# CSharp specific
 packages/
 bin/
 obj/
 TestResults/
 .vs/
 
+# JS Specific
+node_modules/
+dist/
+build/
